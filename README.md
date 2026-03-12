@@ -22,10 +22,6 @@
 | **[Агентная система для Email]([https://github.com/REU-DS-CLUB/finam-ai-trade-hack-ds-club])** | End-to-end пайплайн на LangGraph для автоматической классификации, роутинга и ответа на входящие письма. | LangGraph, Agents, LLM | Активная разработка |
 | **[API для анализа финансовых новостей]([https://github.com/REU-DS-CLUB/finam-ai-trade-hack-ds-club])** | Микросервис на FastAPI, который с помощью LLM извлекает суть и тональность из новостных потоков для трейдинговых систем. | FastAPI, LLM, Sentiment Analysis | 🏆 Победитель AI Trade Hack (HSE & Finam) |
 
-## 📊 Активность
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flonndoran&show_icons=true&theme=default&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flonndoran&layout=compact&theme=default)
-
 ## 🏆 Достижения и активность
 *   **Победитель** хакатона **AI Trade Hack** (HSE & Finam) с проектом анализа финансовых новостей на LLM.
 *   **Участник** хакатонов **AI for Finance Hack** и **Альфа-Будущее**.
