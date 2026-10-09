@@ -1,10 +1,12 @@
-# Иван Зонов 
-**ML Engineer | Специализируюсь на NLP, LLM и создании AI-агентов**
+# Ivan Zonov
+**ML Engineer & Data Scientist | Specializing in NLP, LLMs, and AI agents**
 
-##  Образование
-*   **РЭУ им. Плеханова**, Факультет прикладной математики и информатики (Бакалавриат, 2024 — н.в.)
+Currently working in Sber’s risk modeling team, developing LLM-based solutions and AI agents for risk assessment and automation.
 
-##  Контакты
-*   **Email:** [Flonndoran@yandex.ru](mailto:Flonndoran@yandex.ru)
-*   **Telegram:** [@Flonndoran](https://t.me/Flonndoran)
+## Education
+* **Plekhanov University of Economics** — Bachelor’s degree in Applied Mathematics and Computer Science, graduated in 2026.
+* **Plekhanov University of Economics** — Master’s degree, 2026 — present.
 
+## Contacts
+* **Email:** [Flonndoran@yandex.ru](mailto:Flonndoran@yandex.ru)
+* **Telegram:** [@Flonndoran](https://t.me/Flonndoran)
